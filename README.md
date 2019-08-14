@@ -1,1 +1,1 @@
-# Java-jurs
+# Java-kurs
